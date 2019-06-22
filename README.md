@@ -1,12 +1,20 @@
-# flutter_food_example
+# Flutter Food App Example
 
-A new Flutter application.
+Flutter application home screen design for restaurant based application
 
 ## Getting Started
 
 Resource : https://dribbble.com/shots/6659493-Food-Plan
 
-This project is a starting point for a Flutter application.
+![](https://github.com/dilipkaklotar/flutter_food_example/blob/master/screenshot/screen1.png)
+
+Widget List
+
+- Floating Action Button
+- BottomAppBar with CircularNotchedRectangle
+- Container with BoxDecoration (with image as background)
+- TextField with InputDecoration
+- Stack with Custom Widget which scroll card
 
 A few resources to get you started if this is your first Flutter project:
 
